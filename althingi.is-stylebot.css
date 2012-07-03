@@ -1,0 +1,94 @@
+html body b {
+    font-size: 110%;
+}
+
+body a img {
+    margin-top: 20px;
+}
+
+body center strong {
+    font-size: 120%;
+    line-height: 40px;
+}
+
+html body small {
+    font-family: Georgia;
+    font-size: 70%;
+    line-height: 16px;
+}
+
+html body h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+html body img {
+    margin-top: 20px;
+}
+
+body a i {
+    font-size: 90%;
+}
+
+a sup font {
+    line-height: 1px;
+    font-size: 80%;
+}
+
+div.fyrsti_stafur {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia;
+    font-size: 80%;
+}
+
+div.raedu_titill a {
+    font-size: 80%;
+    margin: 20px;
+}
+
+div.main-timi {
+    font-weight: bold;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 75%;
+}
+
+html body {
+    margin-left: 22%;
+    margin-right: 22%;
+    font-family: Georgia;
+    line-height: 24px;
+    background-color: #f4f4f4;
+}
+
+span.tegund_raedu {
+    font-size: 80%;
+    font-style: normal;
+}
+
+div.hvitt {
+    background-image: none;
+}
+
+p.ind {
+    margin-bottom: 10px;
+}
+
+div.right b {
+    font-size: 90%;
+}
+
+h2.fyrsti_stafur {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 80%;
+}
+
+h1.atkv_top {
+    margin-top: 10px;
+    font-size: 110%;
+}
+
+#raeda_efni {
+    line-height: 24px;
+}
+
