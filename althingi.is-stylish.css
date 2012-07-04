@@ -1,16 +1,14 @@
-@namespace url(http://www.w3.org/1999/xhtml);
-@-moz-document domain(althingi.is){
-
 /*
 * Althingi.is endurbaetur
 *
 * Author      : pallih
 * Created     : 03/07/12
-* Version     : 0.8
+* Version     : 0.9
 * Info : http://gogn.in | pallih@gogn.in
 *
 */
 
+@-moz-document regexp(".*\\.althingi.is/lagas.*"), regexp(".*\\.althingi.is/dba-bin/und.*"), regexp(".*\\.althingi.is/altext.*") {
 html body b {
     font-size: 110% !important;
 }
