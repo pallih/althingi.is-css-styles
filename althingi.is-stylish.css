@@ -8,7 +8,7 @@
 *
 */
 
-@-moz-document regexp(".*\\.althingi.is/lagas.*"), regexp(".*\\.althingi.is/dba-bin/und.*"), regexp(".*\\.althingi.is/altext.*") {
+@-moz-document regexp(".*\\.althingi.is/lagas.*"), regexp(".*\\.althingi.is/dba-bin/und.*"), regexp(".*\\.althingi.is/altext.*"), regexp(".*\\.althingi.is/raeda.*") {
 html body b {
     font-size: 110% !important;
 }
